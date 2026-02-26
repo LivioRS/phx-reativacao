@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="32" fill="#0d1220"/>
+  <rect x="8" y="8" width="176" height="176" rx="28" fill="#111827"/>
+  <text x="96" y="115" font-family="Arial,sans-serif" font-weight="900" font-size="72" fill="#4dabf7" text-anchor="middle" letter-spacing="-2">PHX</text>
+  <line x1="32" y1="130" x2="160" y2="130" stroke="#4dabf7" stroke-width="3" stroke-linecap="round"/>
+  <text x="96" y="158" font-family="Arial,sans-serif" font-weight="400" font-size="18" fill="#339af0" text-anchor="middle" letter-spacing="2">REATIVACAO</text>
+</svg>
